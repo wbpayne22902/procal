@@ -1,3 +1,4 @@
+#!env python3
 import struct
 import qdarktheme
 from PyQt6 import QtGui, QtCore, QtWidgets
